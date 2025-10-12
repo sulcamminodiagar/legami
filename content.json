@@ -61,18 +61,36 @@
       "lan": "pt",
       "title": "Associação Ora d’Aria",
       "body": "Orientação, entrevistas para documentos, escola secundária. \n**Contato**: Giacomo Becatti-Maria Garau \n**E-mail**: oradaria.pral@gmail.com."
+    },    {
+      "lan": "it",
+      "title": "Help Center - Sportello di orientamento sociale",
+      "body": "L’Help Center, sportello di ascolto, orientamento ed assistenza sociale di Roma Capitale, situato negli spazi del Termini Social Corner, in Via di Porta San Lorenzo n. 5, a Roma, si occupa di intercettare ed orientare le marginalità gravi presenti nel territorio della Stazione Termini e nei suoi dintorni.\n**Contatto**: 06 94809595 \nEmail: comunicazionesociale@binario95.it"
+    },
+    {
+      "lan": "pt",
+      "title": "Help Center - Balcão de orientação social",
+      "body": "Help Center, balcão de atendimento, orientação e assistência social da Roma Capitale, localizado no Termini Social Corner, na Via di Porta San Lorenzo n.º 5, em Roma, dedica-se a identificar e orientar os casos graves de marginalização presentes no território da Estação Termini e arredores.\n**Contato**: 06 94809595 \nEmail: comunicazionesociale@binario95.it"
+    },    {
+      "lan": "it",
+      "title": "Centro di ascolto diocesano migrani e rifugiati",
+      "body": "– Sportello di orientamento al lavoro \n– Scuola di Italiano \n– Sportello di orientamento legale \n– Sportello di orientamento sociale per persone vulnerabili \nVia delle Zoccolette 19 – Roma \nTel. 06.88815300 \nE-mail: centro.stranieri@caritasroma.it"
+    },
+    {
+      "lan": "pt",
+      "title": "Centro diocesano de acolhimento para migrantes e refugiados",
+      "body": "Balcão de orientação profissional \n– Escola de italiano \n– Balcão de orientação jurídica \n– Balcão de orientação social para pessoas vulneráveis \nVia delle Zoccolette 19 – Roma \nTel. 06.88815300 \nE-mail: centro.stranieri@caritasroma.it"
     }
   ],
   "health": [
     {
       "lan": "it",
       "title": "Caritas Poliambulatorio",
-      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \n**Contatto**: Giulia. \n**Cell** 347 062 5452."
+      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \nVia Marsala 97 – Roma \n**Contatto**: Giulia. \n**Cell** 347 062 5452."
     },
     {
       "lan": "pt",
       "title": "Caritas Poliambulatorio",
-      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \n**Contato**: Giulia. \n**Celular**: 347 062 5452 "
+      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \nVia Marsala 97 – Roma \n**Contato**: Giulia. \n**Celular**: 347 062 5452 "
     },
     {
       "lan": "it",
@@ -93,7 +111,8 @@
       "lan": "pt",
       "title": "Sportello Donna Ospedale San Camillo",
       "body": "**Contato**: Giulia. \n**Tel**: 0658703216"
-    }      
+    }
+
   ],
   "house": [
     {
