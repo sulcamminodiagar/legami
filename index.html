@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/legami/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Legami</title>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/legami/assets/main-CDbz79lY.js"></script>
+    <link rel="stylesheet" crossorigin href="/legami/assets/main-B8bqHzvo.css">
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script>
+      (() => {
+        const redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>    
+
+  </body>
+</html>
