@@ -1,5 +1,6 @@
 {
   "static": {
+    "test": "Dummy text comes here",
     "cont_text": {
       "it": "Qui troverai contatti che possono aiutarti in diversi ambiti.",
       "pt": "Aqui encontrará contactos que podem ajudá-lo em diversas áreas."
