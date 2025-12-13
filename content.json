@@ -1,6 +1,5 @@
 {
   "static": {
-    "test": "Dummy text comes here",
     "cont_text": {
       "it": "Qui troverai contatti che possono aiutarti in diversi ambiti.",
       "pt": "Aqui encontrará contactos que podem ajudá-lo em diversas áreas."
@@ -10,8 +9,8 @@
       "pt": "Encontros que transformam \nvidas que se renovam"
     },
     "agar": {
-      "it": "Siamo un’**Unità di Strada** che opera nella zona nord-est di Roma per accompagnare persone che vivono in situazione di sfruttamento e marginalità sociale, particolarmente **donne transgender**. \n\nSiamo un gruppo di persone consacrate e laiche ispirate dalla **missione di Gesù**. Vogliamo condividere la **gioia** che suscita il Vangelo, nell’incontro e nell’**amicizia** con le **persone** che incontriamo lungo le strade. \n\nIl nostro territorio di azione è in zona Palmiro Togliatti, Longoni e Prenestina tutti i giovedì dalle ore 21 in poi.\n\n**Che cos'è Legami?** \n\n Legami è un’app che ti aiuta a entrare in contatto con persone disponibili ad offrire diversi servizi, spazi di incontri e nuove opportunità.\n\n• Consulenza \n• Salute \n• Casa \n• Lingua \n• Documenti \n\nAttraverso questa rete di amici condividiamo la gioia di camminare insieme su strade diverse di crescita, scoperta e solidarietà. \n\nCondividi anche tu questi **contatti** con chi ne ha bisogno",
-      "pt": "Somos uma **Unidade de Rua** que atua na zona nordeste de Roma para acompanhar pessoas que vivem em situação de exploração e marginalização social, especialmente **mulheres trans**. \n\nSomos um grupo de pessoas consagradas e leigas inspiradas pela **missão de Jesus**. Queremos compartilhar a **alegria** que o Evangelho suscita, no encontro e na **amizade** com as **pessoas** que encontramos pelas ruas. \n\nNosso território de atuação fica na região de Palmiro Togliatti, Longoni e Prenestina, todas as quintas-feiras a partir das 21h.\n\n**O que é Legami?** \n\n Legami é um aplicativo que ajuda você a entrar em contato com pessoas dispostas a oferecer diversos serviços, espaços de encontro e novas oportunidades.\n\n• Orientação \n• Saúde \n• Moradia \n• Língua \n• Documentos \n\nPor meio dessa rede de amigos, compartilhamos a alegria de caminhar juntos por caminhos diversos de crescimento, descoberta e solidariedade. \n\nCompartilhe também você esses **contatos** com quem precisa."
+      "it": "Sul Cammino di Agar è un’Unità di Strada che opera nella zona nord-est di Roma per accompagnare persone che vivono in situazione di sfruttamento e marginalità sociale, particolarmente donne transgender. \n\nE’ un gruppo costituito da consacrati e laici ispirati dalla missione di Gesù verso i più vulnerabili e abbandonati. Il personaggio biblico di Agar ricorda il dramma di una donna schiava abbandonata nel deserto; Dio ascolta il suo dolore, si rende presente nel momento della difficoltà e le mostra una nuova vita. Allo stesso modo, anche Sul Cammino di Agar cerca di portare speranza alle persone che vivono in una condizione che non vogliono e dalla quale cercano di uscire. \n\n**L’unità di strada** \nSiamo in zona Palmiro Togliatti, Longoni e Prenestina tutti i giovedì dalle ore 21 in poi con qualcosa da bere e da mangiare. \n\n**In che cosa possiamo aiutarti:** \n• A fare le pratiche per il Permesso di Soggiorno e altri documenti legali \n• A migliorare la Lingua Italiana \n• Ad accedere ai servizi per la salute \n• Nell’orientamento al lavoro \n• A pregare insieme",
+      "pt": "No Caminho de Agar é uma Unidade de Rua que atua na zona nordeste de Roma, acompanhando pessoas que vivem em situação de exploração e marginalização social, especialmente mulheres trans. \n\nÉ um grupo constituído por consagrados e leigos inspirados pela missão de Jesus para com os mais vulneráveis e abandonados. A personagem bíblica Agar recorda o drama de uma mulher escrava abandonada no deserto; Deus escuta a sua dor, faz-se presente no momento da dificuldade e mostra-lhe uma nova vida. Da mesma forma, No Caminho de Agar procura levar esperança às pessoas que vivem numa condição que não querem e da qual procuram sair. \n\n**A unidade de rua** \nEstamos na zona Palmiro Togliatti, Longoni e Prenestina todas as quintas-feiras a partir das 21 horas com algo para beber e comer. \n\n**Em que podemos ajudar:** \n• A fazer os trâmites para a Autorização de Residência e outros documentos legais \n• A melhorar a Língua Italiana \n• A aceder aos serviços de saúde \n• Na orientação para o trabalho \n• A rezar juntos"
     }
   },
   "titles": {
@@ -44,12 +43,12 @@
     {
       "lan": "it",
       "title": "Associazione Ora d’Aria",
-      "body": "Orientamento, colloqui per documenti, scuola media. \n**Contatto**: Giacomo Becatti-Maria Garau \n**Email**: oradaria.pral@gmail.com \n**Tel**: 392 043 1599"
+      "body": "Orientamento, colloqui per documenti, scuola media. \n**Contatto**: Giacomo Becatti-Maria Garau \n**Email**: oradaria.pral@gmail.com"
     },
     {
       "lan": "pt",
       "title": "Associação Ora d’Aria",
-      "body": "Orientação, entrevistas para documentos, escola secundária. \n**Contato**: Giacomo Becatti-Maria Garau \n**E-mail**: oradaria.pral@gmail.com \n**Tel**: 392 043 1599"
+      "body": "Orientação, entrevistas para documentos, escola secundária. \n**Contato**: Giacomo Becatti-Maria Garau \n**E-mail**: oradaria.pral@gmail.com."
     }
   ],
   "counselling": [
@@ -61,37 +60,19 @@
     {
       "lan": "pt",
       "title": "Associação Ora d’Aria",
-      "body": "Orientação, entrevistas para documentos, escola secundária. \n**Contato**: Giacomo Becatti-Maria Garau \n**E-mail**: oradaria.pral@gmail.com \n**Tel**: 392 043 1599"
-    },    {
-      "lan": "it",
-      "title": "Help Center - Sportello di orientamento sociale",
-      "body": "L’Help Center, sportello di ascolto, orientamento ed assistenza sociale di Roma Capitale, situato negli spazi del Termini Social Corner, in Via di Porta San Lorenzo n. 5, a Roma, si occupa di intercettare ed orientare le marginalità gravi presenti nel territorio della Stazione Termini e nei suoi dintorni.\n**Contatto**: 06 94809595 \nEmail: comunicazionesociale@binario95.it"
-    },
-    {
-      "lan": "pt",
-      "title": "Help Center - Balcão de orientação social",
-      "body": "Help Center, balcão de atendimento, orientação e assistência social da Roma Capitale, localizado no Termini Social Corner, na Via di Porta San Lorenzo n.º 5, em Roma, dedica-se a identificar e orientar os casos graves de marginalização presentes no território da Estação Termini e arredores.\n**Contato**: 06 94809595 \nEmail: comunicazionesociale@binario95.it"
-    },    {
-      "lan": "it",
-      "title": "Centro di ascolto diocesano migranti e rifugiati",
-      "body": "– Sportello di orientamento al lavoro \n– Scuola di Italiano \n– Sportello di orientamento legale \n– Sportello di orientamento sociale per persone vulnerabili \nVia delle Zoccolette 19 – Roma \nTel. 06.88815300 \nE-mail: centro.stranieri@caritasroma.it"
-    },
-    {
-      "lan": "pt",
-      "title": "Centro diocesano de acolhimento para migrantes e refugiados",
-      "body": "Balcão de orientação profissional \n– Escola de italiano \n– Balcão de orientação jurídica \n– Balcão de orientação social para pessoas vulneráveis \nVia delle Zoccolette 19 – Roma \nTel. 06.88815300 \nE-mail: centro.stranieri@caritasroma.it"
+      "body": "Orientação, entrevistas para documentos, escola secundária. \n**Contato**: Giacomo Becatti-Maria Garau \n**E-mail**: oradaria.pral@gmail.com \n**Tel**: 392 043 1599."
     }
   ],
   "health": [
     {
       "lan": "it",
       "title": "Caritas Poliambulatorio",
-      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \nVia Marsala 97 – Roma \n**Contatto**: Giulia. \n**Cell** 347 062 5452."
+      "body": "Attenzione primaria/Medicazione gratuita \nAccoglienza senza STP \n**Contatto**: Giulia. \n**Cell** 347 062 5452."
     },
     {
       "lan": "pt",
       "title": "Caritas Poliambulatorio",
-      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \nVia Marsala 97 – Roma \n**Contato**: Giulia. \n**Celular**: 347 062 5452 "
+      "body": "Atenção primária / Medicamentos gratuitos \nAcolhimento sem STP \n**Contato**: Giulia. \n**Celular**: 347 062 5452 "
     },
     {
       "lan": "it",
@@ -103,7 +84,7 @@
       "title": "INMP. Istituto Nazionale salute, Migrazione e Povertà.",
       "body": "Procurar STP e Impegnativa. \nServiços muito importantes de medicina geral e atendimentos pontuais. \nApoio Psicológico/Psiquiátrico. \nVia di San Gallicano 25 \n**Telefone**: 06 5855 8503 "
     },
-        {
+    {
       "lan": "it",
       "title": "Sportello Donna Ospedale San Camillo",
       "body": "**Contatto**: Giulia. \n**Tel**: 0658703216"
@@ -113,7 +94,6 @@
       "title": "Sportello Donna Ospedale San Camillo",
       "body": "**Contato**: Giulia. \n**Tel**: 0658703216"
     }
-
   ],
   "house": [
     {
@@ -137,16 +117,6 @@
       "lan": "pt",
       "title": "ACSE",
       "body": "Serviço para emigrantes e refugiados. \nServiço de ensino de italiano. \nServiço odontológico. \n**Contato**: 06 679 1669."
-    },
-    {
-      "lan": "it",
-      "title": "Sul Cammino di Agar",
-      "body": "Studio della lingua italiana in piccoli gruppi e diversi livelli con esame ufficiale."
-    },
-    {
-      "lan": "pt",
-      "title": "No Caminho di Agar",
-      "body": "Estudo da língua italiana em pequenos grupos e diferentes níveis com exame oficial."
     }
   ],
   "prayers": [
@@ -154,8 +124,7 @@
       "lan": "it",
       "day": "monday",
       "title": "Lunedì - Coraggio",
-      "body": 
-      "Signore, dona al mio cuore la forza di camminare a testa alta. Fa' che non mi manchi mai il coraggio di credere nella bellezza della mia vita."
+      "body": "Signore, dona al mio cuore la forza di camminare a testa alta. Fa' che non mi manchi mai il coraggio di credere nella bellezza della mia vita."
     },
     {
       "lan": "pt",
@@ -179,8 +148,7 @@
       "lan": "it",
       "day": "wednesday",
       "title": "Mercoledì - Identità",
-      "body": 
-      "Padre buono, grazie perché mi hai creata unica e irripetibile. Benedici la mia storia e rendila luce per chi si sente smarrito."
+      "body": "Padre buono, grazie perché mi hai creata unica e irripetibile. Benedici la mia storia e rendila luce per chi si sente smarrito."
     },
     {
       "lan": "pt",
@@ -192,8 +160,7 @@
       "lan": "it",
       "day": "thursday",
       "title": "Giovedì - Speranza",
-      "body": 
-      "Signore della vita, quando mi sento stanca o rifiutata, ricordami che Tu non mi abbandoni mai e che il futuro è pieno di speranza."
+      "body": "Signore della vita, quando mi sento stanca o rifiutata, ricordami che Tu non mi abbandoni mai e che il futuro è pieno di speranza."
     },
     {
       "lan": "pt",
@@ -205,21 +172,19 @@
       "lan": "it",
       "day": "friday",
       "title": "Venerdì - Comunità",
-      "body": 
-      "Dio di misericordia, aiutaci a sostenerci a vicenda come sorelle. Fa' che nella nostra unione ci sia forza, gioia e dignità.."
+      "body": "Dio di misericordia, aiutaci a sostenerci a vicenda come sorelle. Fa' che nella nostra unione ci sia forza, gioia e dignità.."
     },
     {
       "lan": "pt",
       "day": "friday",
       "title": "Sexta-feira - Comunidade",
       "body": "Deus da misericórdia, ajuda-nos a apoiar-nos mutuamente como irmãs. Faz com que na nossa união haja força, alegria e dignidade."
-    },  
+    },
     {
       "lan": "it",
       "day": "saturday",
       "title": "Sabato - Pace",
-      "body": 
-      "Padre di pace, fa' che io possa trovare silenzio dentro di me. Donami serenità e riconciliazione con le mie ferite."
+      "body": "Padre di pace, fa' che io possa trovare silenzio dentro di me. Donami serenità e riconciliazione con le mie ferite."
     },
     {
       "lan": "pt",
@@ -231,8 +196,7 @@
       "lan": "it",
       "day": "sunday",
       "title": "Domenica – Gioia",
-      "body": 
-      "Signore della gioia, grazie per i doni che mi hai dato. Fa' che io possa vivere con gratitudine, danzando nella vita con il cuore libero."
+      "body": "Signore della gioia, grazie per i doni che mi hai dato. Fa' che io possa vivere con gratitudine, danzando nella vita con il cuore libero."
     },
     {
       "lan": "pt",
@@ -241,5 +205,4 @@
       "body": "Senhor da alegria, obrigada pelos dons que me deste. Faz com que eu possa viver com gratidão, dançando na vida com o coração livre."
     }
   ]
-
 }
