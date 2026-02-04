@@ -31,8 +31,8 @@
       "pt": "Saúde"
     },
     "house": {
-      "it": "Casa",
-      "pt": "Casa"
+      "it": "Aiuto",
+      "pt": "Ajuda"
     },
     "language": {
       "it": "Lingua",
@@ -109,6 +109,16 @@
       "lan": "pt",
       "title": "Caritas Roma",
       "body": "Assistente social e orientação sobre cursos de formação e inserção profissional. \nProjeto Mulheres Transgénero e também pessoas em situação de rua. \n**Contacto**: Porsia Siggillino e Dario. \nVia delle zoccolette 19 \n**E-mail**: sociale.stranieri@caritasroma.it"
+    },
+    {
+        "lan": "it",
+        "title": "Parrocchia di San Cirillo Alessandrino",
+        "body": "Assistenza con pacchi alimentari.\n**Contatto**: Don Stefano. \nViale Giorgio Morandi, 91\n 00155 Roma "
+    },
+    {
+        "lan": "pt",
+        "title": "Parrocchia di San Cirillo Alessandrino",
+        "body": "Assistência com pacotes de alimentos.\n**Contato**: Don Stefano. \nViale Giorgio Morandi, 91\n 00155 Roma "
     }
   ],
   "language": [
@@ -121,7 +131,17 @@
       "lan": "pt",
       "title": "ACSE",
       "body": "Serviço para emigrantes e refugiados. \nServiço de ensino de italiano. \nServiço odontológico. \n**Contato**: 06 679 1669."
-    }
+    },
+    {
+        "lan": "it",
+        "title": "Sul Cammino di Agar",
+        "body": "Corso di lingua italiana"
+    },
+    {
+        "lan": "pt",
+        "title": "Sul Cammino di Agar",
+        "body": "Curso de língua italiana"
+    }  
   ],
   "prayers": [
     {
